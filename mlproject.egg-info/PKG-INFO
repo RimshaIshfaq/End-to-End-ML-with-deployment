@@ -5,5 +5,7 @@ Author-email: rimshaishfaq86@gmail.com
 Requires-Dist: numpy
 Requires-Dist: pandas
 Requires-Dist: seaborn
+Requires-Dist: catboost
+Requires-Dist: xgboost
 Dynamic: author-email
 Dynamic: requires-dist
